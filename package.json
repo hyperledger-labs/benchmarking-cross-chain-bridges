@@ -67,7 +67,7 @@
     "@cowprotocol/cow-sdk": "4.0.3",
     "@gnosis.pm/gp-v2-contracts": "1.1.2",
     "@lifi/sdk": "2.5.0",
-    "@openzeppelin/contracts": "5.0.0",
+    "@openzeppelin/contracts": "5.0.2",
     "@socket.tech/socket-v2-sdk": "1.23.3",
     "@types/node": "20.10.0",
     "@uniswap/sdk-core": "4.0.9",
